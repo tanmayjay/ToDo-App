@@ -1,0 +1,19 @@
+{
+    "name": "jay/todo",
+    "description": "A simple todo application",
+    "type": "project",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Tanmay Kirtania",
+            "email": "jktanmay@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ToDo\\": "classes/"
+        }
+    }
+}
